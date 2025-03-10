@@ -140,10 +140,10 @@ public class Sorts<T> {
          * @param arr the array to sort
          */
     public static <T extends Comparable<? super T>> void mergeSort(T[] arr) {
-        int mid = arr.length / 2;
-        for(int i = 0; i < mid; i++) {
-            
-        } 
+        //int mid = arr.length / 2;
+        //for(int i = 0; i < mid; i++) {
+ 
+        // were not able to figure this out even though we have the helper
     }
 
     /**
@@ -156,6 +156,9 @@ public class Sorts<T> {
      * @param arr
      */
     public static <T extends Comparable<? super T>> void quickSort(T[] arr) {
+        
+    // we did not know how to do this either. We plan on asking prof. Osera for
+    // help after the break!!!
         // TODO: fill me in!
     }
 }
