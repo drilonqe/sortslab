@@ -1,8 +1,12 @@
 # Sorts Lab
 
-* Authors: _(TODO: list your names here)_
+* Authors: Nahom and Drilon
 
 ## Resources Used
 
-* _(TODO: list your resources here!)_
-* ...
++ Java version 17.0.14
++ Used Netbeans as an IDE
++ I used the classroom page made by prof. Osera as reference
+source: https://osera.cs.grinnell.edu/ttap/data-structures-labs/ 
+source: https://osera.cs.grinnell.edu/ttap/data-structures
+
